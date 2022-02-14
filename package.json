@@ -19,5 +19,14 @@
   "engines": {
     "node": "14.*"
   },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianMatta/Entrega_intermedia_1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JulianMatta/Entrega_intermedia_1/issues"
+  },
+  "homepage": "https://github.com/JulianMatta/Entrega_intermedia_1#readme",
   "description": ""
 }
